@@ -1,0 +1,2 @@
+Model with 2 layers
+Test accuracy: 0.9190000295639038

@@ -1,0 +1,2 @@
+Model with 64 channels
+Test accuracy: 0.917900025844574

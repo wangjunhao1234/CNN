@@ -1,0 +1,2 @@
+Model with 3 layers
+Test accuracy: 0.9262999892234802

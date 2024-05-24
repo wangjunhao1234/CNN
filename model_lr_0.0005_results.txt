@@ -1,0 +1,2 @@
+Model with learning rate 0.0005
+Test accuracy: 0.9164999723434448
